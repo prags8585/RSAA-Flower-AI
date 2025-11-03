@@ -1,0 +1,7 @@
+{
+  "ticket_id": "US-INC1002",
+  "title": "Consul service issue",
+  "description": "Consul in US is experiencing degraded performance.",
+  "resolution": "Mitigated Consul issue by applying patch or scaling resources.",
+  "timestamp": "2024-03-21T00:00:00"
+}

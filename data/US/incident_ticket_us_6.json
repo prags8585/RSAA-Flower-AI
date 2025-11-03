@@ -1,0 +1,7 @@
+{
+  "ticket_id": "US-INC1006",
+  "title": "Cassandra service issue",
+  "description": "Cassandra in US is experiencing degraded performance.",
+  "resolution": "Mitigated Cassandra issue by applying patch or scaling resources.",
+  "timestamp": "2024-10-25T00:00:00"
+}

@@ -1,0 +1,7 @@
+{
+  "ticket_id": "US-INC1234",
+  "title": "Service outage in payments API",
+  "description": "Users unable to complete transactions. Logs show repeated 504 errors.",
+  "resolution": "Restarted payment-service pod, scaled replicas from 3\u21926.",
+  "timestamp": "2024-03-12T15:30:00Z"
+}

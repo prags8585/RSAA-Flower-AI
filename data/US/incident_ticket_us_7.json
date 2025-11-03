@@ -1,0 +1,7 @@
+{
+  "ticket_id": "US-INC1007",
+  "title": "Zookeeper service issue",
+  "description": "Zookeeper in US is experiencing degraded performance.",
+  "resolution": "Mitigated Zookeeper issue by applying patch or scaling resources.",
+  "timestamp": "2024-06-26T00:00:00"
+}

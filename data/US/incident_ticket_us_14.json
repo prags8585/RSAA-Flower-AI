@@ -1,0 +1,7 @@
+{
+  "ticket_id": "US-INC1014",
+  "title": "MongoDB service issue",
+  "description": "MongoDB in US is experiencing degraded performance.",
+  "resolution": "Mitigated MongoDB issue by applying patch or scaling resources.",
+  "timestamp": "2022-11-17T00:00:00"
+}

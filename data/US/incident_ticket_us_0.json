@@ -1,0 +1,7 @@
+{
+  "ticket_id": "US-INC1000",
+  "title": "Kafka service issue",
+  "description": "Kafka in US is experiencing degraded performance.",
+  "resolution": "Mitigated Kafka issue by applying patch or scaling resources.",
+  "timestamp": "2024-11-04T00:00:00"
+}
