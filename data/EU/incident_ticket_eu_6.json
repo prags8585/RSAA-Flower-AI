@@ -1,0 +1,7 @@
+{
+  "ticket_id": "EU-INC1006",
+  "title": "Postgres service issue",
+  "description": "Postgres in EU is experiencing degraded performance.",
+  "resolution": "Mitigated Postgres issue by applying patch or scaling resources.",
+  "timestamp": "2023-05-10T00:00:00"
+}

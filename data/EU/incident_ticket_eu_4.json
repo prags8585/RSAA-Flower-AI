@@ -1,0 +1,7 @@
+{
+  "ticket_id": "EU-INC1004",
+  "title": "ElasticSearch service issue",
+  "description": "ElasticSearch in EU is experiencing degraded performance.",
+  "resolution": "Mitigated ElasticSearch issue by applying patch or scaling resources.",
+  "timestamp": "2024-09-19T00:00:00"
+}

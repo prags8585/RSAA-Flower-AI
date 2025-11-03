@@ -1,0 +1,7 @@
+{
+  "ticket_id": "EU-INC4321",
+  "title": "Outage in payment gateway",
+  "description": "High error rates observed in EU region. Gateway returning 502.",
+  "resolution": "Rolled back to previous stable build v1.3.2.",
+  "timestamp": "2024-05-21T09:00:00Z"
+}

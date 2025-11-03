@@ -1,0 +1,7 @@
+{
+  "ticket_id": "EU-INC1002",
+  "title": "Redis service issue",
+  "description": "Redis in EU is experiencing degraded performance.",
+  "resolution": "Mitigated Redis issue by applying patch or scaling resources.",
+  "timestamp": "2023-07-10T00:00:00"
+}

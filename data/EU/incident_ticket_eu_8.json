@@ -1,0 +1,7 @@
+{
+  "ticket_id": "EU-INC1008",
+  "title": "Kubernetes service issue",
+  "description": "Kubernetes in EU is experiencing degraded performance.",
+  "resolution": "Mitigated Kubernetes issue by applying patch or scaling resources.",
+  "timestamp": "2024-07-08T00:00:00"
+}
