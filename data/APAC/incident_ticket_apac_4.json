@@ -1,0 +1,7 @@
+{
+  "ticket_id": "APAC-INC1004",
+  "title": "ClickHouse service issue",
+  "description": "ClickHouse in APAC is experiencing degraded performance.",
+  "resolution": "Mitigated ClickHouse issue by applying patch or scaling resources.",
+  "timestamp": "2024-02-05T00:00:00"
+}

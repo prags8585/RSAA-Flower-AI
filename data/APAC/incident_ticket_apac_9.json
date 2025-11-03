@@ -1,0 +1,7 @@
+{
+  "ticket_id": "APAC-INC1009",
+  "title": "MySQL service issue",
+  "description": "MySQL in APAC is experiencing degraded performance.",
+  "resolution": "Mitigated MySQL issue by applying patch or scaling resources.",
+  "timestamp": "2024-01-13T00:00:00"
+}

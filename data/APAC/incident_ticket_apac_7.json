@@ -1,0 +1,7 @@
+{
+  "ticket_id": "APAC-INC1007",
+  "title": "HDFS service issue",
+  "description": "HDFS in APAC is experiencing degraded performance.",
+  "resolution": "Mitigated HDFS issue by applying patch or scaling resources.",
+  "timestamp": "2022-08-04T00:00:00"
+}

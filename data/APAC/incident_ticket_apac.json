@@ -1,0 +1,7 @@
+{
+  "ticket_id": "APAC-INC9876",
+  "title": "Login service degraded",
+  "description": "Users in APAC region report login timeouts. Latency > 2s.",
+  "resolution": "Increased DB connection pool size from 50\u2192100.",
+  "timestamp": "2024-06-05T07:45:00Z"
+}

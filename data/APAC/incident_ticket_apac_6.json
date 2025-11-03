@@ -1,0 +1,7 @@
+{
+  "ticket_id": "APAC-INC1006",
+  "title": "RabbitMQ service issue",
+  "description": "RabbitMQ in APAC is experiencing degraded performance.",
+  "resolution": "Mitigated RabbitMQ issue by applying patch or scaling resources.",
+  "timestamp": "2023-10-27T00:00:00"
+}

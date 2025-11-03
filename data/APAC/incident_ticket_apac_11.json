@@ -1,0 +1,7 @@
+{
+  "ticket_id": "APAC-INC1011",
+  "title": "Spark service issue",
+  "description": "Spark in APAC is experiencing degraded performance.",
+  "resolution": "Mitigated Spark issue by applying patch or scaling resources.",
+  "timestamp": "2024-08-14T00:00:00"
+}
